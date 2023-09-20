@@ -13,7 +13,8 @@ An owner system that's quick and easy to set up.
 
 // type
 - hander
-
+```
+```js
 // Custom fuction (put it in your index.js)
 bot.functionManager.createFunction({
     name: "$ifv6",
